@@ -2,7 +2,7 @@
 
 A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript** — designed to perform basic arithmetic operations and functions such as **addition**, **subtraction**, **multiplication**, **division**, **square root**, and **percentage**.
 
-This project demonstrates how to use **DOM manipulation**, **event handling**, and **`eval()`** to evaluate user. It’s a great learning project for beginners strengthening their JavaScript and frontend development skills.
+This project demonstrates how to use **DOM manipulation**, **event handling**, and **`eval()`** to evaluate user. It’s a great learning project to strengthening my JavaScript and frontend development skills.
 
 ---
 
